@@ -68,8 +68,8 @@ main {
 }
 
 .card {
- 
-  gap: 10px;
+ justify-content: space-evenly;
+  padding: inherit;
 
 }
 
